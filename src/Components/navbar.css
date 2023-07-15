@@ -1,0 +1,24 @@
+.navbar{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    /* background-color: lightblue;
+     */
+     background: rgb(92,173,171);
+background: radial-gradient(circle, rgba(92,173,171,1) 20%, rgba(156,163,35,1) 94%);
+border: 2px solid black;
+    
+}
+
+.navbar img{
+    height: 60px;
+    width: 60px;
+    margin: 15px;
+
+}
+.text{
+    font-size: 1.6rem;
+    font-weight: 700;
+    /* color: white; */
+    margin-top: 25px;
+}
